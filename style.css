@@ -1,0 +1,22 @@
+header{
+  background-color: black;
+  margin-bottom: 10px;
+}
+.menu{
+  font-size: 25px;
+  text-transform: uppercase;
+  color: white;
+}
+.slider-div{
+  margin-left: 30px;
+}
+main{
+
+  text-align:justify;
+
+}
+footer{
+  text-align: center;
+  color: white;
+  background-color: black;
+}
